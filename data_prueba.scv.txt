@@ -1,0 +1,8 @@
+edad,tipo_animal,color
+3,perro,negro
+4,gato,gris
+2,perro,blanco
+
+
+database.csv
+data_prueba.csv
